@@ -2,7 +2,18 @@
   "name": "react-katex-component",
   "version": "0.0.5",
   "description": "A component which renders everything passed to it with Katex.",
+  "keywords": [
+    "react",
+    "tex",
+    "latex",
+    "math",
+    "katex"
+  ],
+  "homepage": "https://github.com/Mortuie/react-katex-component",
   "main": "build/index.js",
+  "bugs": {
+    "url": "https://github.com/Mortuie/react-katex-component/issues",
+  },
   "peerDependencies": {
     "react": "^16.2.0",
     "katex": "^0.9.0",
@@ -20,6 +31,7 @@
     "name": "mortuie",
     "email": "jimmybob-leon@hotmail.co.uk"
   },
+  "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.24.1",
     "babel-core": "^6.24.1",
