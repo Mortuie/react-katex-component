@@ -1,7 +1,7 @@
 {
   "name": "react-katex-component",
   "version": "0.0.4",
-  "description": "Put a description here",
+  "description": "A component which renders everything passed to it with Katex.",
   "main": "build/index.js",
   "peerDependencies": {
     "react": "^16.2.0",
