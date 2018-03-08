@@ -12,7 +12,7 @@
   "homepage": "https://github.com/Mortuie/react-katex-component",
   "main": "build/index.js",
   "bugs": {
-    "url": "https://github.com/Mortuie/react-katex-component/issues",
+    "url": "https://github.com/Mortuie/react-katex-component/issues"
   },
   "peerDependencies": {
     "react": "^16.2.0",
