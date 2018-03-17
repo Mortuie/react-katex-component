@@ -3,7 +3,6 @@ import katex from 'katex';
 import styled, {css} from 'styled-components';
 
 export default class KatexComponent extends Component {
-
     render() {
         try {
             var str = katex.renderToString(this.props.data);
