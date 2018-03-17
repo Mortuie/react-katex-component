@@ -1,6 +1,6 @@
 {
   "name": "react-katex-component",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "A component which renders everything passed to it with Katex.",
   "keywords": [
     "react",
